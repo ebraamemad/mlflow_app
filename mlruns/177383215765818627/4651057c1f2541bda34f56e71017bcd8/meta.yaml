@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/projects/mlflow_app/mlruns/177383215765818627/4651057c1f2541bda34f56e71017bcd8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '177383215765818627'
+lifecycle_stage: active
+run_id: 4651057c1f2541bda34f56e71017bcd8
+run_name: aged-ox-658
+run_uuid: 4651057c1f2541bda34f56e71017bcd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745456893754
+status: 1
+tags: []
+user_id: H
