@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/projects/mlflow_app/mlruns/177383215765818627/27c0f2dba16b408eaee5262ef357bc35/artifacts
+end_time: 1745451578488
+entry_point_name: ''
+experiment_id: '177383215765818627'
+lifecycle_stage: active
+run_id: 27c0f2dba16b408eaee5262ef357bc35
+run_name: brawny-trout-15
+run_uuid: 27c0f2dba16b408eaee5262ef357bc35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745451560850
+status: 3
+tags: []
+user_id: H

@@ -1,0 +1,6 @@
+artifact_location: file:///E:/projects/mlflow_app/mlruns/177383215765818627
+creation_time: 1745451523241
+experiment_id: '177383215765818627'
+last_update_time: 1745451523241
+lifecycle_stage: active
+name: churn-detection

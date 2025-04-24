@@ -1,0 +1,20 @@
+artifact_path: LogisticRegression/without-imbalance
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.20
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.11.3
+model_size_bytes: 793
+model_uuid: 768ef2ad3bcb4ba5a253e78b25d4a898
+run_id: 6ab50fce94034effad73a9ac5814ee60
+utc_time_created: '2025-04-24 00:26:02.838676'

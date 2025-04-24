@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/projects/mlflow_app/mlruns/177383215765818627/2e488eac37a14625a1d1ab30a3cb8065/artifacts
+deleted_time: 1745451687040
+end_time: null
+entry_point_name: ''
+experiment_id: '177383215765818627'
+lifecycle_stage: deleted
+run_id: 2e488eac37a14625a1d1ab30a3cb8065
+run_name: resilient-hawk-246
+run_uuid: 2e488eac37a14625a1d1ab30a3cb8065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745451640324
+status: 1
+tags: []
+user_id: H

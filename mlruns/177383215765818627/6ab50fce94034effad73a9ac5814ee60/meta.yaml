@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/projects/mlflow_app/mlruns/177383215765818627/6ab50fce94034effad73a9ac5814ee60/artifacts
+end_time: 1745454386043
+entry_point_name: ''
+experiment_id: '177383215765818627'
+lifecycle_stage: active
+run_id: 6ab50fce94034effad73a9ac5814ee60
+run_name: caring-goat-261
+run_uuid: 6ab50fce94034effad73a9ac5814ee60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745454361501
+status: 3
+tags: []
+user_id: H

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/projects/mlflow_app/mlruns/177383215765818627/cb172185f8b0424f8f7ddde34f5eccc3/artifacts
+end_time: 1745454394516
+entry_point_name: ''
+experiment_id: '177383215765818627'
+lifecycle_stage: active
+run_id: cb172185f8b0424f8f7ddde34f5eccc3
+run_name: wistful-hog-280
+run_uuid: cb172185f8b0424f8f7ddde34f5eccc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745454390732
+status: 3
+tags: []
+user_id: H

@@ -1,0 +1,20 @@
+artifact_path: RandomForestClassifier/with-SMOTE
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.20
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.11.3
+model_size_bytes: 49624508
+model_uuid: 62d5bc3eeb3c48bf832722b9f8c74cfe
+run_id: 27c0f2dba16b408eaee5262ef357bc35
+utc_time_created: '2025-04-23 23:39:28.022087'
